@@ -1,0 +1,6 @@
+{
+  "name": "Adisense",
+  "description": "An AI-powered food safety and nutrition analyst that scans food labels to alert users of allergies, intolerances, and other dietary restrictions based on personalized profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

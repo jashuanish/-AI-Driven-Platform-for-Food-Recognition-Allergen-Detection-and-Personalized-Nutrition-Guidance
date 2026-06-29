@@ -1,0 +1,10 @@
+flask==3.0.3
+flask-cors==4.0.1
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+Pillow
+python-dotenv
+google-genai

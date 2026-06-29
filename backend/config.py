@@ -1,0 +1,5 @@
+CONFIDENCE_THRESHOLD = 0.40
+MAX_IMAGE_SIZE_MB = 5
+FLASK_PORT = 5000
+CORS_ORIGIN = "http://localhost:3000"
+YOLO_MODEL_PATH = "models/best.pt"
